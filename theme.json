@@ -1,8 +1,8 @@
 {
-    "id": "nodebb-theme-lavender",
+    "id": "nodebb-theme-ratemyaxe",
     "name": "Lavender",
     "description": "A theme that utilizes a masonry (magazine-like) homepage.",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender",
+    "url": "https://github.com/abtrumpet/nodebb-theme-ratemyaxe",
     "screenshot": "screenshot.png",
-    "baseTheme": "nodebb-theme-vanilla"
+    "baseTheme": "nodebb-theme-lavender"
 }

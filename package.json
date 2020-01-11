@@ -1,25 +1,25 @@
 {
-  "name": "nodebb-theme-lavender",
-  "version": "5.0.11",
-  "description": "Lavender Theme for NodeBB",
+  "name": "nodebb-theme-ratemyaxe",
+  "version": "1.0.0",
+  "description": "A fork of Lavender Theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender"
+    "url": "https://github.com/abtrumpet/nodebb-theme-ratemyaxe"
   },
   "keywords": [
     "nodebb",
-    "lavender",
+    "ratemyaxe",
     "theme",
     "themes"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "Austin Benesh",
+    "email": "austin@austinbenesh.com"
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender/issues"
+    "url": "https://github.com/abtrumpet/nodebb-theme-ratemyaxe/issues"
   },
   "nbbpm": {
     "compatibility": "^1.4.4"
