@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-ratemyaxe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork of Lavender Theme for NodeBB",
   "main": "theme.less",
   "repository": {
